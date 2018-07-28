@@ -1,0 +1,44 @@
+.Parent{
+border: 2px solid red;
+padding: 2%;
+display: flex;
+flex-direction: row;
+}
+
+.Child1{
+border: 2px solid blue;
+padding: 2%;
+margin: 2%;
+width: 50%;
+}
+
+.Child2{
+border: 2px solid blue;
+padding: 2%;
+margin: 2%;
+width: 50%;
+}
+
+h2{
+  color: brown;
+}
+
+.Child1 img{
+border: 2px solid red;
+width: 60%;
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 15px 18px 19px black;
+}
+
+.Child2 img{
+border: 2px solid green;
+width: 60%;
+border-radius: 70%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 15px 18px 19px black;
+}

@@ -1,0 +1,53 @@
+{"details":{
+  "image":"pro.png",
+  "name":"Rajeswari",
+  "phno":"+919294909856",
+  "email":"rajeswarigampa99@gmail.com",
+  "address":"NH9,HYD ROAD,MIC,KANCHIKACHERLA"
+},
+"career":{
+  "info":"To persue a challenging and be a part of progressive organisation that gives a scope to enhance my knowledge and utilizing skils towards the growth of organisation."
+},
+"education":[
+  {
+  "qualification":"B-tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Narayana college",
+  "year":"2014-2016",
+  "percentage":"95%"
+},
+{
+  "qualification":"SSC",
+  "institute":"st.joseph school",
+  "year":"2003-2013",
+  "percentage":"93%"
+}
+],
+"skills":[{
+  "title":"programming language",
+  "info":["c,c++,python"]
+},
+{
+  "title":"Data Bases",
+  "info":["Tinydb,oracle"]
+},
+{
+  "title":"Operating systems",
+  "info":["unix,linux,windows,ubuntu,Dos"]
+}
+],
+"achievement":[{
+  "title":"non-technical",
+  "info":["i won award as a best dancer"]
+},
+{
+  "title":"technical",
+  "info":["poster,ppt"]
+}
+]
+}

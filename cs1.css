@@ -1,0 +1,146 @@
+.main{
+   border: 2px solid blue;
+   padding: 2%;
+   display: flex;
+   flex-direction: row;
+}
+.left{
+  border: 2px solid green;
+  padding :2%;
+  margin: 2%;
+width: 30%;
+text-align: center;
+font-size: 30px;
+}
+h2{
+  color: red;
+}
+a{
+  color: brown;
+  font-size: 40px;
+  word-wrap: break-word;
+}
+p{
+  word-wrap: break-word;
+}
+#name{
+  color: indigo;
+  font-size: 30px;
+  text-align: center;
+}
+.right{
+  border: 2px solid red;
+  padding :2%;
+  margin: 2%;
+  width: 80%
+}
+.left img{
+  width: 50%;
+  border: 2px solid blue;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ border-radius: 50%;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+  .main{
+     border: 2px solid blue;
+     padding: 2%;
+     display: flex;
+     flex-direction: row;
+     width: 100%;
+  }
+  .left{
+    border: 2px solid green;
+    padding :2%;
+    margin: 2%;
+  width: 90%;
+  text-align: center;
+background-color: skyblue;
+  font-size: 30px;
+  }
+  h2{
+    color: red;
+  }
+  a{
+    color: brown;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  p{
+    word-wrap: break-word;
+  }
+  #name{
+    color: indigo;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .right{
+    border: 2px solid red;
+    padding :2%;
+    margin: 2%;
+    background-color: skyblue;
+    width: 90%
+  }
+  .left img{
+    width: 50%;
+    border: 2px solid blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   border-radius: 50%;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px){
+  .main{
+     border: 2px solid blue;
+     padding: 2%;
+     display: flex;
+     flex-direction: row;
+     width: 100%;
+  }
+  .left{
+    border: 2px solid green;
+    padding :2%;
+    margin: 2%;
+  width: 40%;
+  text-align: center;
+background-color: lightyellow;
+  font-size: 30px;
+  }
+  h2{
+    color: red;
+  }
+  a{
+    color: brown;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  p{
+    word-wrap: break-word;
+  }
+  #name{
+    color: indigo;
+    font-size: 30px;
+    text-align: center;
+  }
+  .right{
+    border: 2px solid red;
+    padding :2%;
+    margin: 2%;
+    background-color: lightpink;
+    width: 40%
+  }
+  .left img{
+    width: 50%;
+    border: 2px solid blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   border-radius: 50%;
+  }
+}
